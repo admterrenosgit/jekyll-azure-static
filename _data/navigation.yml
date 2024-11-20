@@ -1,0 +1,14 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Sobre Nosotros"
+    url: /sobreno/
+  - title: "Junta de Gobierno"
+    url: /jgobierno/
+  - title: "Avisos y Archivos"
+    url: /AvisosArchivos/
+  - title: "Formularios"
+    url: /formularios/
+  - title: "Informes"
+    url: /informes/
+  
